@@ -1,0 +1,11 @@
+{
+  "name" : "tmbrReader",
+  "description": "for reading tmbr quotes on mobile",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git"
+  }
+}
